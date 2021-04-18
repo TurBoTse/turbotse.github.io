@@ -1,0 +1,57 @@
+Package: com.cpdigitaldarkroom.barmoji
+Version: 2020.5
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Installed-Size: 488
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.cpdigitaldarkroom.barmoji_2020.5_iphoneos-arm.deb
+Size: 59518
+MD5sum: 51bf837ea3c5b847277cae576be9370b
+SHA1: 3966284cc458cf37ba4e741fcfebebea65ca275f
+SHA256: c64dabd2330a3d4d6b6ce54b671e9ceeeb727cd28038508d113389b49ba755f2
+Section: Tweaks
+Homepage: https://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.barmoji/
+Description: Quick Emoji Access Bar
+Tag: purpose::extension, compatible_min::ios10, compatible_max::ios13.3
+Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Depiction: https://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.barmoji/
+Name: Barmoji
+
+Package: com.pulandres.conditionalwifi4
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Pulandres
+Depends: mobilesubstrate
+Filename: ./debs/com.pulandres.conditionalwifi4_1.0.0_iphoneos-arm.deb
+Size: 12760
+MD5sum: afc51a6a71f1e4379268c660ff7502ef
+SHA1: 1b361a642c4e285503de4504091d4110e74793f6
+SHA256: 681b6d2fd9e3130098768e935f53f9422c0150a34a6eee4621bcc98f09e1b58a
+Section: Tweaks
+Description: Restrict certain apps from accessing wifi on iOS 11
+Author: ATWiiks
+Depiction: https://pulandres.me/repo/index.php?pid=20
+Name: ConditionalWiFi4 R
+
+Package: org.thebigboss.gpscheat
+Version: 1.1-5
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 775
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Filename: ./debs/org.thebigboss.gpscheat_1.1-5_iphoneos-arm.deb
+Size: 133892
+MD5sum: 2cb43c64d8017a0349732a7a5a88334a
+SHA1: 7d822ef167c626129d930427e99beac2d4fc4642
+SHA256: 9d0bd11bda6d7cf26702fac61d8e6bcabc1f4166b4aaa45cba1eca7c96f80517
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=gpscheatDp
+Description: Set a Fake Any Location On Device!
+Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+Author: Minuit <minuits@163.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=gpscheatDp
+Dev: minuit
+Icon: file:///Library/PreferenceBundles/GPSCheatSettings.bundle/icon@2x.png
+Name: GPSCheat
+Sponsor: thebigboss.org <http://thebigboss.org>
+
