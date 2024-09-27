@@ -168,6 +168,22 @@ Description: A MobileTerminal fork. Full Screen Support
 Author: lordscotland
 Name: MTerminal-Rootless
 
+Package: com.raulsaeed.bhtiktok++
+Version: 1.2-3+debug
+Architecture: iphoneos-arm64
+Maintainer: raul saeed
+Installed-Size: 916
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/rootless/com.raulsaeed.bhtiktok++_1.2-3+debug_iphoneos-arm64.deb
+Size: 134488
+MD5sum: 35deb753a10b6bbf50f7094429866868
+SHA1: 4c0cbc834d7c073cb3a92baf82d294ce8349c699
+SHA256: 5b1820e218cae5d7adb44dec919a3a0573da7fa37faca475b97d6f69740d23cf
+Section: Tweaks
+Description: An awesome tweak for TikTok!
+Author: raul saeed
+Name: BHTikTok++
+
 Package: com.snail.aemuloautoemulate.rootless
 Version: 1.0.3
 Architecture: iphoneos-arm64
