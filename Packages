@@ -85,6 +85,22 @@ Description: 让自带计算器可以查看历史计算过程和结果。v1.1.3:
 Author: Donato Fiore
 Name: CalculatorHistory
 
+Package: com.fiore.calculatorhistory
+Version: 1.1.3-1
+Architecture: iphoneos-arm64
+Maintainer: Donato Fiore + AnubisTweaks
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Filename: ./debs/rootless/com.fiore.calculatorhistory_1.1.3-1_iphoneos-arm64.deb
+Size: 16552
+MD5sum: 1407253fa6493139ebf6bf3c7ff621e9
+SHA1: 4ab3a19333690ea9c550ea61b974dbc33dabd4d1
+SHA256: f84fd040f24efccccd00e93e890ed84297cf2784caa052f61446553572d5b1f9
+Section: Tweaks
+Description: Calculator gains history!
+Author: Donato Fiore
+Name: CalculatorHistory
+
 Package: com.initnil.wcenableshowcontactaddcreatetime
 Version: 1.1-1
 Architecture: iphoneos-arm64
@@ -1959,4 +1975,20 @@ Dev: minuit
 Icon: file:///Library/PreferenceBundles/GPSCheatSettings.bundle/icon@2x.png
 Name: GPSCheat
 Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: preferenceloader
+Version: 2.2.8
+Architecture: iphoneos-arm64
+Maintainer: Dhinak G <dhinak@dhinak.net>
+Installed-Size: 371
+Depends: mobilesubstrate
+Filename: ./debs/rootless/preferenceloader_2.2.8_iphoneos-arm64.deb
+Size: 19180
+MD5sum: 11795810cc51f256e38426ea59ca8d2c
+SHA1: 52d0ef5c1c5ad4e1e25d2dce0049823e79ecdae5
+SHA256: a22e3a248ea18a6fae3ea0ae8f55f5f31f246cd63041cf3ed0c756c2046671dd
+Section: System
+Description: load preferences in style
+Author: Dhinak G <dhinak@dhinak.net>
+Name: PreferenceLoader
 
