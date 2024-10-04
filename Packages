@@ -202,6 +202,23 @@ Description: A MobileTerminal fork. Full Screen Support
 Author: lordscotland
 Name: MTerminal-Rootless
 
+Package: com.ps.batteryhealthenabler
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: PoomSmart
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.3)
+Conflicts: com.ps.batteryhealthenabler
+Filename: ./debs/rootless/com.ps.batteryhealthenabler_1.0.1_iphoneos-arm64.deb
+Size: 5732
+MD5sum: 3eebbd56f4044faaff5cc8e891a672e5
+SHA1: 62868377349b8d3128f22ea198675ea832d82074
+SHA256: 4c39247bf310dfd55b605089ebeff0ada5bbc94f65172ef72376e559004cfcbd
+Section: Tweaks
+Description: 修复更换电池后，电池健康显示维修或无法验证的问题，无设置，自动生效。
+Author: PoomSmart
+Name: BatteryHealth
+
 Package: com.raulsaeed.bhtiktok++
 Version: 1.2-3+debug
 Architecture: iphoneos-arm64
